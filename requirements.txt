@@ -9,7 +9,6 @@ certifi==2018.1.18
 chardet==2.3.0
 colorama==0.3.7
 configparser==3.5.0
-cryptography==2.1.4
 cycler==0.10.0
 decorator==4.3.0
 dnspython==1.15.0
@@ -57,7 +56,6 @@ prompt-toolkit==1.0.15
 psutil==5.4.2
 ptyprocess==0.6.0
 pycairo==1.16.2
-pycrypto==2.6.1
 Pygments==2.2.0
 pygobject==3.28.2
 PyJWT==1.5.3
