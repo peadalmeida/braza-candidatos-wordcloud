@@ -1,5 +1,9 @@
 # braza-candidatos-wordcloud
 
+** system requirements **
+
+- swig `apt install swig`
+
 Nuvem de palavras do Plano de Governo dos candidatos à Presidência da República.
 
 Planos de Governo retirados diretamente do site oficial da campanha dos candidatos.
