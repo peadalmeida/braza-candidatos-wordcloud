@@ -1,12 +1,13 @@
-# braza-candidatos-wordcloud
+# :brazil: braza-candidatos-wordcloud
+
+Nuvem de palavras do Plano de Governo dos candidatos à Presidência da República.
+
+Planos de Governo retirados diretamente do site oficial da campanha dos candidatos.
 
 **system requirements**
 
 - swig  (`apt install swig`)
 
-Nuvem de palavras do Plano de Governo dos candidatos à Presidência da República.
-
-Planos de Governo retirados diretamente do site oficial da campanha dos candidatos.
 
 ## Geraldo Alckmin
 <img src="pics/wordcloud_Alckmin.png" alt="drawing" width="600"/>
