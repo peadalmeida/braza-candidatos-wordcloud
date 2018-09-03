@@ -1,8 +1,8 @@
 # braza-candidatos-wordcloud
 
-** system requirements **
+**system requirements**
 
-- swig `apt install swig`
+- swig  (`apt install swig`)
 
 Nuvem de palavras do Plano de Governo dos candidatos à Presidência da República.
 
