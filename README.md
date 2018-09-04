@@ -9,32 +9,38 @@ Planos de Governo retirados diretamente do site oficial da campanha dos candidat
 - swig  (`apt install swig`)
 
 
-## Geraldo Alckmin
-<img src="pics/wordcloud_Alckmin.png" alt="drawing" width="600"/>
+## **Geral**
+<img src="pics/wordcloud_geral.png" alt="drawing" width="700"/>
 
-## Álvaro Dias
+## Álvaro Dias (Podemos)
 <img src="pics/wordcloud_AlvaroDias.png" alt="drawing" width="600"/>
 
-## João Amoedo
+## João Amoedo (Novo)
 <img src="pics/wordcloud_Amoedo.png" alt="drawing" width="600"/>
 
-## Jair Bolsonaro
+## Geraldo Alckmin (PSDB)
+<img src="pics/wordcloud_Alckmin.png" alt="drawing" width="600"/>
+
+## Jair Bolsonaro (PSL)
 <img src="pics/wordcloud_Bolsonaro.png" alt="drawing" width="600"/>
 
-## Guilherme Boulos
+## Guilherme Boulos (PSOL)
 <img src="pics/wordcloud_Boulos.png" alt="drawing" width="600"/>
 
-## Ciro Gomes
+## Ciro Gomes (PDT)
 <img src="pics/wordcloud_CiroGomes.png" alt="drawing" width="600"/>
 
-## Cabo Daciolo
+## Cabo Daciolo (Patriota)
 <img src="pics/wordcloud_Daciolo.png" alt="drawing" width="600"/>
 
-## José Maria Eymael
+## José Maria Eymael (DC)
 <img src="pics/wordcloud_Eymael.png" alt="drawing" width="600"/>
 
-## Lula
+## Lula (PT)
 <img src="pics/wordcloud_Lula.png" alt="drawing" width="600"/>
 
-## Marina Silva
+## Marina Silva (Rede)
 <img src="pics/wordcloud_Marina.png" alt="drawing" width="600"/>
+
+## Vera (PSTU)
+<img src="pics/wordcloud_Vera.png" alt="drawing" width="600"/>
