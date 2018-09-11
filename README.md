@@ -1,8 +1,8 @@
 # :brazil: Nuvem de Palavras dos Candidatos à Presidência
 
-Ano de eleição, ano de um monte de texto com os planos de governo - com a formalização das promessas, diretrizes e metas de cada chapa candidata.
+Ano de eleição, ano de um monte de texto com a formalização das promessas, diretrizes e metas de cada chapa candidata.
 
-Inspirada numa [matéria](https://g1.globo.com/politica/eleicoes/2018/noticia/2018/08/17/o-que-dizem-os-programas-de-governo-dos-candidatos-a-presidencia.ghtml) publicada na cobertura especial das Eleições do Portal G1, aqui estão as nuvens de palavras dos planos de governo dos candidatos à Presidência da República, criadas utilizando Python + [Jupyter Notebook](http://jupyter.org/) + [textract](https://textract.readthedocs.io/en/stable/).
+Inspirado numa [matéria](https://g1.globo.com/politica/eleicoes/2018/noticia/2018/08/17/o-que-dizem-os-programas-de-governo-dos-candidatos-a-presidencia.ghtml) publicada na cobertura especial das Eleições do Portal G1, criei nuvens de palavras dos planos de governo dos candidatos à Presidência da República, utilizando Python + [Jupyter Notebook](http://jupyter.org/) + [textract](https://textract.readthedocs.io/en/stable/). Quanto maior a palavra, maior a frequência com que ela aparece no plano de governo.
 
 Foi gerada também uma nuvem de palavras *geral*, que consiste na união do texto dos planos de governo de todos os candidatos. 
 
@@ -11,7 +11,7 @@ Todos os documentos foram retirados diretamente do site oficial da campanha das 
 ## **Nuvem de Palavras Geral**
 <img src="pics/wordcloud_geral.png" alt="drawing" width="900"/>
 
-## **Nuvem de Palavras dos Candidatos (em ordem alfabética)**
+## **Nuvem de Palavras dos Candidatos**
 
 ### Álvaro Dias (Podemos)
 <img src="pics/wordcloud_AlvaroDias.png" alt="drawing" width="830"/>
